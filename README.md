@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaradhayasingh811&theme=" alt="aaradhayasingh811" /></a> </p>
 
 - 🔭 I’m currently working on **new project..**
-- 🌱 I’m currently learning **Node js and React..**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **aaradhayasingh811@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/aaradhayasingh811**
